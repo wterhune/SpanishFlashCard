@@ -2,7 +2,7 @@
 
 This project is coded with another developer for a Swift course from graduate school. 
 
-##Project description:
+Project description:
 
 Our application will feature a flashcard in Spanish meant for individuals ages 5+. The
 goal of this application is to help individuals quickly learn Spanish and identify basic
