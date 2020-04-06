@@ -43,23 +43,43 @@ application, then swift right for “Exit”.
 credits.
 
 a. Flower Photo by Annie Spratt on  Unsplash
+
 b. Calendar Photo by Nathan Dumlao on  Unsplash
+
 c. Clock Photo by  insung yoon  on  Unsplash
+
 d. Cat Photo by Amber Kipp on  Unsplash
+
 e. Dog Photo by Cole Keister on  Unsplash
+
 f. Girl Photo by Jen Theodore on  Unsplash
+
 g. Language Photo by Hannah Wright on  Unsplash
+
 h. Lotion Photo by Collins Lesulie on  Unsplash
+
 i. Programmer Photo by Kelly Sikkema on  Unsplash
+
 j. Tea Photo by  Manki Kim  on  Unsplash
+
 k. Socks Photo by  Freshh Connection  on  Unsplash
+
 l. Drink Photo by Whitney Wright on  Unsplash
+
 m. Apple Photo by  an_vision  on  Unsplash
+
 n. Cookie Photo by Frank Busch on  Unsplash
+
 o. House Photo by Irina Murza on  Unsplash
+
 p. Book Photo by Daria Nepriakhina on  Unsplash
+
 q. Glasses Photo by MARK S. on  Unsplash
+
 r. Water Photo by Nathan Dumlao on  Unsplash
+
 s. Eyes Photo by Amanda Dalbjörn on  Unsplash
+
 t. Headphones Photo by  Alexunder Hess  on  Unsplash
+
 u. Shoes Photo by Linda Xu on  Unsplash
