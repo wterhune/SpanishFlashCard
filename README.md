@@ -41,6 +41,7 @@ application, then swift right for “Exit”.
 
 5) The images from the application are from Unsplash. Below are the photography
 credits.
+
 a. Flower Photo by Annie Spratt on  Unsplash
 b. Calendar Photo by Nathan Dumlao on  Unsplash
 c. Clock Photo by  insung yoon  on  Unsplash
